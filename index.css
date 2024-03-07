@@ -142,7 +142,7 @@ header table {
     background:#FFA500;
 }
 #rightImage {
-    background: url(hero.png) center center;
+    background: url(cantransp.png) center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
